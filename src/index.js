@@ -118,7 +118,3 @@ var myChart = new Chart(ctx, {
     }
 });
 
-$("#changeDatas").on("click", evt => {
-    console.log("yes");
-})
-
